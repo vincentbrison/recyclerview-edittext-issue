@@ -4,7 +4,7 @@
     android:layout_height="wrap_content">
 
     <EditText
-        android:enabled="false"
+        android:enabled="true"
         android:id="@+id/list_item_edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
